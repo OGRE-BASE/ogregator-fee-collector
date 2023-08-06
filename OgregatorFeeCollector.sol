@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "./interfaces/IERC20.sol";
+import "./Interfaces/IERC20.sol";
 
 contract OgregatorFeeCollector {
     address public ogrelord;
